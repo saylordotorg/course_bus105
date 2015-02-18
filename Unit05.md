@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS105: Managerial Accounting"
+course_description: "An examination of the effects of cost, price and profit on management decision-making, with particular attention to the tools and methods managers use to make the best-informed decisions."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Capital Budgeting** <span id="5"></span> 
 *The previous unit focused on budgeting for the day-to-day operations of
 a business.  We will now focus on budgeting for long-term investments in

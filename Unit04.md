@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS105: Managerial Accounting"
+course_description: "An examination of the effects of cost, price and profit on management decision-making, with particular attention to the tools and methods managers use to make the best-informed decisions."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Budgeting And Cost Variances** <span id="4"></span> 
 *The budget process is essential to planning and controlling cycles.  It
 provides a plan for operations and a benchmark by which to measure

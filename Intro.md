@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS105: Managerial Accounting"
+course_description: "An examination of the effects of cost, price and profit on management decision-making, with particular attention to the tools and methods managers use to make the best-informed decisions."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "BUS105: Managerial Accounting"
 ---------------------------------------------------
 

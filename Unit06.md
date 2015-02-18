@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS105: Managerial Accounting"
+course_description: "An examination of the effects of cost, price and profit on management decision-making, with particular attention to the tools and methods managers use to make the best-informed decisions."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Performance Evaluation** <span id="6"></span> 
 *This unit will explore ways in which managerial accounting helps
 companies evaluate performance of the company, segments, departments,

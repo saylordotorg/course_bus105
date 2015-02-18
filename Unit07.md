@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS105: Managerial Accounting"
+course_description: "An examination of the effects of cost, price and profit on management decision-making, with particular attention to the tools and methods managers use to make the best-informed decisions."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: The Saylor Foundation’s “BUS105 Final Exam”**
     Link: The Saylor Foundation’s [“BUS105 Final
